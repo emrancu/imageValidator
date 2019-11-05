@@ -6,11 +6,9 @@
 
 #Example..
  
- 
-<pre>
-
-#html
-     <div class="form-group imageValidateControl">
+ #HTML
+ <pre>
+      <div class="form-group imageValidateControl">
                 <div class="preview"><img src="" /></div>
                 <div class="controls"></div>
                 <div class="field-area">
@@ -19,9 +17,11 @@
                 </div>
             </div>
            
-           
-    #js
-    
+          
+          
+ </pre>
+  # JavaScript
+<pre> 
   $("#image").on("change", function () {
             var self = this;
             let options = {
