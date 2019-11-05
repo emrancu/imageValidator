@@ -6,6 +6,7 @@
 
 #Example..
  
+ ```html
  #HTML
  <pre>
       <div class="form-group imageValidateControl">
@@ -20,6 +21,7 @@
           
           
  </pre>
+```
   # JavaScript
 <pre> 
   $("#image").on("change", function () {
