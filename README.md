@@ -6,8 +6,9 @@
 
 #Example..
  
- ```html
+ 
  #HTML
+ ```html
  <pre>
       <div class="form-group imageValidateControl">
                 <div class="preview"><img src="" /></div>
